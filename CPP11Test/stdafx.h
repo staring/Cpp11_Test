@@ -21,6 +21,8 @@
 #include <map>
 #include <string>
 #include <vector>
+#include <functional>
+#include <list>
 
 using namespace std;
 

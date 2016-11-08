@@ -1,8 +1,5 @@
 #pragma once
-#include <iostream>
-#include <algorithm>
-#include <functional>
-#include <list>
+
 //带有引用参数的普通函数
 void display(int first, int &second)
 {

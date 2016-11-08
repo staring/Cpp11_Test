@@ -73,3 +73,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.suo
+/ipch/CPP11TEST-5fc70d80
+/CPP11Test.VC.VC.opendb
+/CPP11Test.VC.db
